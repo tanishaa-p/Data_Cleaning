@@ -17,18 +17,23 @@ Dataset Source: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/da
 
 ## Screenshots
 Original data:
+
 ![image](https://github.com/user-attachments/assets/77c6a660-d132-49e8-8425-a15b8bf084e9)
 
 Extracting info of the file -
+
 ![image](https://github.com/user-attachments/assets/744766a6-1a1f-4b44-a71b-bfa3ea3ec969)
 
 Evaluating null values in the dataset-
+
 ![image](https://github.com/user-attachments/assets/1206e87a-d09a-45ed-a1f0-9a04aa56b60d)
 
 Overall duplicate values-
+
 ![image](https://github.com/user-attachments/assets/233ac79c-df3b-4e5a-9763-2d7ff4292f98)
 
 But since show_id is unique for all, checking for all other columns-
+
 ![image](https://github.com/user-attachments/assets/37d4ddab-b400-4893-9515-dbb83667b9fe)
 ![Screenshot 2025-04-22 102150](https://github.com/user-attachments/assets/f9c6b400-7b66-4dba-92e4-5250c148dadd)
 
